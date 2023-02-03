@@ -1,0 +1,17 @@
+@media(max-width: 1025px) {}
+
+@media (max-width: 770px) {
+  .direction ul li {
+    width: 100%;
+  }
+}
+
+@media (max-width: 426px) {
+  .header .menu{
+    display: none;
+  }
+
+  .header .burger{
+    display: block;
+  }
+}
